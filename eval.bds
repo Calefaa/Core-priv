@@ -1,0 +1,6 @@
+$nomention
+
+$onlyIf[$authorID!=1325614120828928092;]
+$onlyIf[$authorID!=1147967929539895316;]
+
+$eval[$message]
