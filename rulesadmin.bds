@@ -1,0 +1,245 @@
+$nomention
+
+$deletecommand
+
+$title[╔════════════════════════╗
+
+» Reglas
+
+╚════════════════════════╝]
+$description[Todos los administradores deberán respetar las siguientes normas.
+
+El incumplimiento podrá resultar en:
+
+* advertencias,
+* suspensión,
+* degradación,
+* o remoción inmediata del cargo.;1]
+$color[#5865f2;1]
+
+$addField[───────────────
+
+1 » Otras Reglas
+
+───────────────;
+
+Todos los administradores deberán seguir también las reglas mencionadas en:
+
+* <#1309403282833408073>
+* <#1309266352913256579>
+
+En caso de conflicto entre normas:
+
+* prevalecerá la decisión de los <@&1309266555757924424> ,
+* seguida por la de los <@&1309304920314482718> .
+
+⚠ El desconocimiento de las reglas NO justifica su incumplimiento.;false;2]
+$color[#5865f2;2]
+
+$addField[───────────────
+
+2 » Jerarquía y Autoridad
+
+───────────────;
+
+La jerarquía administrativa deberá respetarse en todo momento.
+
+**Orden jerárquico:**
+
+1. <@&1309266555757924424>
+2. <@&1309304920314482718>
+3. <@&1309303092952563725>
+4. <@&1309303181867749406>
+
+Los <@&1309266555757924424> tienen autoridad final sobre cualquier decisión del servidor.
+
+Los <@&1309304920314482718> podrán:
+
+* revisar decisiones administrativas,
+* revertir acciones,
+* y resolver conflictos internos del staff.;false;3]
+$color[#5865f2;3]
+
+$addField[───────────────
+
+3 » Toma de Decisiones
+
+───────────────;
+
+Toda decisión administrativa deberá basarse en:
+
+* reglas,
+* contexto,
+* evidencia,
+* y criterio razonable.
+
+Antes de realizar cambios importantes, se deberá evaluar:
+
+* impacto en el servidor,
+* consecuencias para usuarios o staff,
+* posibles alternativas,
+* y riesgos asociados.
+
+**Se consideran decisiones críticas:**
+
+* bans permanentes,
+* sanciones al staff,
+* cambios estructurales,
+* cambios importantes de configuración,
+* modificaciones administrativas relevantes.
+
+⚠ Siempre que sea posible, estas decisiones deberán revisarse junto a otro administrador u owner.
+
+Toda acción importante deberá poder justificarse posteriormente.;false;4]
+$color[#5865f2;4]
+
+$addField[───────────────
+
+4 » Gestión del Staff
+
+───────────────;
+
+Los <@&1309303092952563725> deberán supervisar el desempeño de:
+
+* <@&1309303181867749406>
+* <@&1309303527817875477>
+* <@&1309303181867749406>
+* y demás miembros del staff.
+
+Las correcciones deberán realizarse con respeto y profesionalismo.
+
+⚠ Queda prohibido desacreditar públicamente a miembros del staff innecesariamente.
+
+Las reglas deberán aplicarse de manera consistente, evitando:
+
+* favoritismos,
+* preferencias personales,
+* o excepciones injustificadas.;false;5]
+$color[#5865f2;5]
+
+$addField[───────────────
+
+5 » Sistema de Sanciones
+
+───────────────;
+
+**Faltas leves**
+
+Ejemplos:
+
+* inactividad moderada,
+* errores administrativos menores,
+* negligencia leve,
+* incumplimientos menores.
+
+Las faltas leves reiteradas podrán escalar a sanciones mayores dependiendo del contexto.
+
+**Faltas graves**
+
+Ejemplos:
+
+* abuso de permisos,
+* filtración de información interna,
+* manipulación del staff,
+* decisiones arbitrarias,
+* corrupción administrativa,
+* amenazas utilizando el rango,
+* uso indebido de herramientas administrativas,
+* sabotaje interno.
+
+Las faltas graves podrán resultar en:
+
+* suspensión,
+* degradación,
+* o remoción inmediata del cargo.
+
+Toda sanción importante deberá:
+
+* registrarse,
+* justificarse,
+* y notificarse en <#1309405504690196491> .;false;6]
+$color[#5865f2;6]
+
+$addField[───────────────
+
+6 » Uso de Permisos
+
+───────────────;
+
+Los permisos administrativos deberán utilizarse únicamente cuando sea necesario.
+
+⚠ Queda prohibido:
+
+* abusar de comandos,
+* intervenir innecesariamente,
+* realizar acciones impulsivas,
+* o utilizar permisos por diversión.
+
+Los administradores deberán evitar interferir constantemente en tareas que puedan resolver correctamente rangos inferiores.;false;7]
+$color[#5865f2;7]
+
+$addField[───────────────
+
+7 » Cambios del Servidor
+
+───────────────;
+
+Ningún administrador deberá realizar cambios importantes por decisión propia sin autorización o consenso previo, salvo emergencias.
+
+Esto incluye:
+
+* roles,
+* canales,
+* bots,
+* configuraciones críticas,
+* sistemas administrativos,
+* permisos,
+* estructuras del servidor,
+* o reglas importantes.
+
+⚠ Toda modificación relevante deberá evaluarse antes de aplicarse.;false;8]
+$color[#5865f2;8]
+
+$addField[───────────────
+
+8 » Conflictos Internos
+
+───────────────;
+
+Los desacuerdos internos deberán resolverse de forma privada.
+
+Queda prohibido:
+
+* generar divisiones visibles,
+* provocar conflictos internos,
+* o crear enfrentamientos públicos dentro del staff.
+
+En situaciones mayores, el problema deberá escalarse a:
+
+* <@&1309304920314482718>
+* o <@&1309266555757924424>.;false;9]
+$color[#5865f2;9]
+
+$addField[───────────────
+
+9 » Profesionalismo
+
+───────────────;
+
+Los administradores representan directamente la imagen del servidor.
+
+Se deberá mantener una actitud:
+
+* madura,
+* neutral,
+* respetuosa,
+* y profesional.
+
+⚠ Se deberá evitar:
+
+* actuar impulsivamente,
+* responder agresivamente,
+* generar toxicidad constante,
+* intimidar utilizando el rango,
+* o dañar la reputación del servidor.;false;10]
+$color[#5865f2;10]

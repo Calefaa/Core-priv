@@ -1,0 +1,179 @@
+$title[╔════════════════════════╗
+
+» Sistema de Sanciones
+
+╚════════════════════════╝;1]
+$description[Las sanciones serán aplicadas según la gravedad de la infracción, los antecedentes del usuario y el contexto de la situación.
+
+Las sanciones pueden incluir:
+
+* Advertencia (Warn).
+* Silencio temporal (Mute).
+* Restricciones de acceso.
+* Expulsión (Kick).
+* Baneo temporal.
+* Baneo permanente.
+
+El staff podrá omitir pasos intermedios en casos graves.
+
+## Acumulación de Advertencias
+
+Las advertencias se acumulan y podrán derivar automáticamente en sanciones más severas.
+
+Escala orientativa:
+
+* 3 advertencias → Silencio temporal.
+* 5 advertencias → Restricción temporal o expulsión.
+* 7 advertencias → Baneo temporal.
+* 10 advertencias → Revisión para posible baneo permanente.
+
+Las advertencias podrán expirar con el tiempo a criterio del staff.
+
+## Sanciones por Regla
+
+### 1. Respeto y Convivencia
+
+Sanción habitual:
+
+* 1 a 2 advertencias.
+
+Casos graves:
+
+* Silencio temporal.
+* Expulsión.
+* Baneo permanente en casos de amenazas, acoso grave o discriminación severa.
+
+### 2. Spam, Flood, Menciones y Publicidad
+
+Sanción habitual:
+
+* 1 advertencia.
+
+Casos graves:
+
+* Silencio temporal.
+* Restricción de canales.
+* Expulsión por spam masivo o publicidad reiterada.
+
+### 3. Uso Correcto de los Canales
+
+Sanción habitual:
+
+* Advertencia verbal o 1 advertencia.
+
+Reincidencia:
+
+* Restricciones temporales.
+
+### 4. Contenido Permitido
+
+Sanción habitual:
+
+* 1 a 3 advertencias.
+
+Casos graves:
+
+* Expulsión inmediata.
+* Baneo permanente.
+
+### 5. Soporte, Hilos y Tickets
+
+Sanción habitual:
+
+* Advertencia.
+
+Reincidencia:
+
+* Restricción temporal del sistema de soporte.
+
+### 6. Staff y Moderación
+
+Sanción habitual:
+
+* 1 advertencia.
+
+Casos graves:
+
+* Silencio temporal.
+* Restricciones.
+* Expulsión.
+
+### 7. Idioma
+
+Sanción habitual:
+
+* Recordatorio o advertencia.
+
+Reincidencia:
+
+* 1 advertencia.
+
+### 8. Identidad y Privacidad
+
+Sanción habitual:
+
+* 2 advertencias.
+
+Casos graves:
+
+* Expulsión inmediata.
+* Baneo permanente.
+
+### 9. Reportes
+
+Sanción habitual:
+
+* 1 advertencia.
+
+Casos graves:
+
+* Restricciones o expulsión por reportes maliciosos reiterados.
+
+### 10. Multicuentas y Evasión de Sanciones
+
+Sanción habitual:
+
+* Baneo temporal.
+
+Casos graves:
+
+* Baneo permanente de todas las cuentas involucradas.
+
+### 11. Canales de Voz y Música
+
+Sanción habitual:
+
+* Advertencia o desconexión del canal.
+
+Reincidencia:
+
+* Silencio temporal o restricción de acceso a canales de voz.
+
+### 12. Seguridad
+
+Sanción habitual:
+
+* Expulsión inmediata.
+
+Casos graves:
+
+* Baneo permanente sin previo aviso.
+
+### 13. Nombres de Usuario
+
+Sanción habitual:
+
+* Solicitud de cambio de nombre.
+
+Reincidencia:
+
+* Restricciones temporales o sanciones adicionales.
+
+### 14. Términos de Discord
+
+Las sanciones dependerán de la gravedad de la infracción y podrán incluir cualquier medida contemplada en este reglamento.
+
+### 15. Sentido Común y Situaciones No Previstas
+
+Las sanciones serán determinadas según el impacto de la conducta y la evidencia disponible.;1]
+$color[#5865f2;1]

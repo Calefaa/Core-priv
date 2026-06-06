@@ -1,0 +1,51 @@
+$nomention
+
+$deletecommand
+
+$title[╔════════════════════════╗
+
+» Comandos
+
+╚════════════════════════╝;1]
+$description[Los administradores tienen acceso a herramientas y comandos exclusivos.
+
+⚠ El uso indebido de comandos administrativos será considerado una falta grave.
+
+> Lista de comandos:
+
+> *c?ban {@usuario} {razón}* > **Expulsa a un usuario permanentemente del servidor.**
+
+> *c?unban {user_id}* > **Vuelve a permitir a un usuario baneado.**
+
+> *c?kick {@usuario} {razón}* > **Expulsa a un usuario del servidor. Este podra volver a unirse si tiene una invitación.**
+
+> *c?mute {@usuario} {duración} {razón}* > **Mutea a un usuario para que no pueda escribir durante _X_ tiempo.**
+
+> *c?unmute {@usuario}* > **El usuario muteado podra volver a escribir.**
+
+> *c?warn {@usuario} {razón}* > **Ponle una advertencia a un usuario.**
+
+> *c?unwarn {id_warn}* > **Quita una advertencia a un usuario con el ID.**
+
+> *c?warns {@usuario}* > **Mira las advertencias de un usuario.**
+
+> *c?purge {cantidad}* > **Elimina _X_ cantidad de mensajes.**
+
+> *c?nuke* > **Elimina un canal y lo vuelve a crear para eliminar absolutamente todo el contenido.**;1]
+$color[#5865f2;1]
+
+$title[╔════════════════════════╗
+
+» Final
+
+╚════════════════════════╝;2]
+$description[El objetivo del sistema administrativo es mantener CORE como una comunidad:
+
+* segura,
+* organizada,
+* profesional,
+* estable,
+* y útil para todos los usuarios.
+
+El staff administrativo deberá actuar siempre priorizando el bienestar general del servidor antes que intereses personales.;2]
+$color[#5865f2;2]

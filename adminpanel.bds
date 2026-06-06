@@ -1,0 +1,94 @@
+$nomention
+
+$deletecommand
+
+$title[╔════════════════════════╗
+
+🛡 Administración
+
+╚════════════════════════╝;1]
+$description[> Documento oficial del sistema administrativo de **$serverName[$guildID]**.
+> Todos los miembros del staff administrativo deberán leer, comprender y respetar estas normas.;1]
+
+$color[#5865f2;1]
+
+$title[╔════════════════════════╗
+
+» Roles
+
+╚════════════════════════╝;2]
+$description[El sistema administrativo está dividido en **4 rangos principales**:
+
+* <@&1309266555757924424>
+
+> Fundadores del servidor. Tienen autoridad máxima sobre cualquier decisión relacionada con CORE.
+
+* <@&1309304920314482718>
+
+> Responsables principales de la gestión general del servidor. Supervisan al staff y colaboran directamente con los Founders.
+
+* <@&1309303092952563725>
+
+> Administradores principales. Supervisan moderación, estructura, sistemas y funcionamiento interno del servidor.
+
+* <@&1309303181867749406>
+
+> Administradores en período de prueba. Cumplen las mismas funciones que un <@&1309303092952563725> , pero bajo supervisión.
+
+Los usuarios con los roles <@&1309303092952563725> y <@&1309303181867749406> serán seleccionados exclusivamente por los <@&1309304920314482718> o <@&1309266555757924424> .;2]
+
+$color[#5865f2;2]
+
+$title[╔════════════════════════╗
+
+» Trabajo
+
+╚════════════════════════╝;3]
+$description[Los administradores son responsables de mantener el servidor:
+
+* seguro,
+* organizado,
+* estable,
+* funcional,
+* y correctamente supervisado.
+
+## Funciones principales
+
+* Supervisar al staff.
+* Gestionar situaciones administrativas complejas.
+* Resolver conflictos internos cuando sea necesario.
+* Mantener la seguridad del servidor.
+* Coordinar cambios estructurales.
+* Actuar durante emergencias.
+
+⚠ **La función principal de los administradores NO es moderar constantemente el chat.**
+
+La moderación diaria corresponde principalmente a:
+
+* <@&1309303527817875477>
+* <@&1309303383814836245>
+
+Los administradores podrán intervenir cuando:
+
+* una situación escale,
+* exista abuso,
+* haya riesgo para el servidor,
+* o sea necesaria autoridad superior.;3]
+
+$color[#5865f2;3]
+
+$title[╔════════════════════════╗
+
+» Responsabilidad
+
+╚════════════════════════╝;4]
+$description[El trabajo administrativo es completamente voluntario.
+
+Actualmente, los miembros del staff:
+
+* **NO recibirán pagos,**
+* recompensas monetarias,
+* ni beneficios económicos garantizados.
+
+Al aceptar el cargo administrativo, el usuario acepta estas condiciones.;4]
+$color[#5865f2;4]

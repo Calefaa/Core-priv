@@ -1,0 +1,70 @@
+$nomention
+
+$addField[9. Reportes;Si observas comportamientos que incumplan las reglas, utiliza los sistemas de reporte o tickets habilitados por el servidor.
+
+Los reportes falsos, manipulados o realizados de mala fe también podrán ser sancionados.;false;1]
+$color[#5865f2;1]
+
+$addField[10. Multicuentas y Evasión de Sanciones;Las multicuentas están permitidas.
+
+Sin embargo, está prohibido utilizarlas para:
+
+* Evadir sanciones.
+* Manipular votaciones o sistemas de participación.
+* Obtener ventajas injustas.
+* Alterar el funcionamiento normal de la comunidad.
+
+Intentar evadir una sanción mediante multicuentas, VPN, proxies u otros métodos resultará en sanciones más severas.;false;2]
+$color[#5865f2;2]
+
+$addField[11. Canales de Voz y Música;En los canales de voz queda prohibido:
+
+* Generar ruidos molestos de forma intencional.
+* Saturar el micrófono.
+* Entrar y salir repetidamente para molestar a otros usuarios.
+* Transmitir contenido NSFW.
+* Utilizar sonidos, música o efectos con la intención de incomodar a otros usuarios.
+* Mostrar contenido inapropiado mediante cámara o pantalla compartida.
+
+Al utilizar sistemas de música:
+
+* No monopolices la cola de reproducción.
+* Respeta la participación de otros usuarios.
+* Evita reproducir contenido extremadamente largo de forma reiterada.
+
+Se recomienda utilizar canciones inferiores a 10 minutos siempre que sea posible.;false;3]
+$color[#5865f2;3]
+
+$addField[12. Seguridad;Está prohibido:
+
+* Compartir malware, virus o software malicioso.
+* Realizar phishing o intentos de engaño.
+* Compartir archivos maliciosos.
+* Compartir enlaces engañosos.
+* Participar en actividades destinadas a perjudicar a otros usuarios o al proyecto.
+* Explotar errores, fallos o vulnerabilidades de Core, sus bots o cualquier sistema asociado para obtener ventajas o causar daños.
+
+Si encuentras un error o vulnerabilidad, repórtalo al staff.;false;4]
+$color[#5865f2;4]
+
+$addField[13. Nombres de Usuario;Los nombres de usuario no deben:
+
+* Contener contenido ofensivo.
+* Suplantar identidades.
+* Estar compuestos únicamente por símbolos, caracteres invisibles o secuencias excesivamente difíciles de leer.
+
+En caso necesario, el staff podrá solicitar un cambio de nombre o aplicar medidas temporales para facilitar la identificación del usuario.;false;5]
+$color[#5865f2;5]
+
+$addField[14. Términos de Discord;Todos los usuarios deben cumplir además con:
+
+* [Terminos de Servicio de Discord]/(https://discord.com/terms)
+* [Lineamientos de la comunidad de Discord]/(https://discord.com/guidelines)
+
+El incumplimiento de dichas normas también podrá derivar en sanciones dentro del servidor.;false;6]
+$color[#5865f2;6]
+
+$addField[15. Sentido Común y Situaciones No Previstas;No intentes aprovechar vacíos en las reglas o situaciones no contempladas expresamente para perjudicar a otros usuarios o al servidor.
+
+El staff podrá tomar medidas ante situaciones no contempladas expresamente en estas reglas cuando sea necesario para proteger la comunidad, siempre que dichas medidas sean razonables, proporcionales y coherentes con el espíritu de este reglamento.;false;7]
+$color[#5865f2;7]

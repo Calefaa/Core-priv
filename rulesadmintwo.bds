@@ -1,0 +1,176 @@
+$nomention
+
+$deletecommand
+
+$addField[───────────────
+
+10 » Neutralidad
+
+───────────────;
+
+Los administradores deberán mantenerse imparciales siempre que sea posible.
+
+Si un administrador está involucrado personalmente en un conflicto:
+
+* otro miembro del staff deberá encargarse del caso,
+* especialmente en sanciones o decisiones importantes.;false;1]
+$color[#5865f2;1]
+
+$addField[───────────────
+
+11 » Transparencia
+
+───────────────;
+
+Las acciones administrativas importantes deberán:
+
+* registrarse correctamente,
+* justificarse cuando sea necesario,
+* y mantenerse verificables mediante logs o evidencias.
+
+⚠ No se deberán tomar decisiones arbitrarias.;false;2]
+
+
+$addField[───────────────
+$color[#5865f2;2]
+$footer[¿Alguien siquiera lee esto?;2]
+
+12 » Inactividad
+
+───────────────;
+
+Todos los administradores deberán mantener actividad mínima dentro del servidor.
+
+La inactividad prolongada sin previo aviso podrá resultar en:
+
+* revisión del cargo,
+* suspensión,
+* degradación,
+* o remoción.
+
+Las ausencias largas deberán notificarse previamente cuando sea posible.;false;3]
+$color[#5865f2;3]
+
+$addField[───────────────
+
+13 » Confidencialidad
+
+───────────────;
+
+Toda información interna del staff deberá mantenerse privada.
+
+Esto incluye:
+
+* discusiones administrativas,
+* reportes internos,
+* configuraciones sensibles,
+* información técnica,
+* datos privados,
+* sanciones en revisión,
+* y cualquier contenido restringido al staff.
+
+⚠ La filtración de información interna será considerada una falta grave.
+
+Esta norma seguirá aplicándose incluso después de abandonar el staff.;false;4]
+$color[#5865f2;4]
+
+$addField[───────────────
+
+14 » Emergencias
+
+───────────────;
+
+En situaciones críticas, los administradores podrán actuar inmediatamente para proteger el servidor.
+
+Ejemplos:
+
+* raids,
+* spam masivo,
+* malware,
+* phishing,
+* cuentas comprometidas,
+* filtraciones,
+* o amenazas similares.
+
+⚠ Toda acción tomada durante una emergencia deberá revisarse posteriormente.;false;5]
+$color[#5865f2;5]
+
+$addField[───────────────
+
+15 » Seguridad de la Cuenta
+
+───────────────;
+
+Todos los administradores deberán mantener protegida su cuenta de Discord.
+
+Se recomienda activar:
+
+* autenticación en dos pasos (2FA),
+* correo verificado,
+* contraseña segura,
+* y medidas adicionales de seguridad.
+
+⚠ Si una cuenta comprometida afecta al servidor:
+
+* el miembro podrá ser removido inmediatamente del staff,
+* y perderá permisos hasta nueva revisión.
+
+La responsabilidad sobre la seguridad de la cuenta recae completamente en el usuario.;false;6]
+$color[#5865f2;6]
+
+$addField[───────────────
+
+16 » Accesos y Seguridad Interna
+
+───────────────;
+
+Cuando un miembro abandone el staff, perderá inmediatamente acceso a:
+
+* paneles,
+* bots,
+* repositorios,
+* herramientas internas,
+* permisos sensibles,
+* y recursos administrativos.
+
+⚠ Queda prohibido compartir:
+
+* cuentas,
+* tokens,
+* contraseñas,
+* accesos,
+* o información sensible.
+
+Los administradores deberán limitar accesos innecesarios siempre que sea posible.;false;7]
+$color[#5865f2;7]
+
+$addField[───────────────
+
+17 » Capacitación
+
+───────────────;
+
+Todos los administradores deberán conocer:
+
+* las reglas del servidor,
+* los sistemas administrativos,
+* las herramientas utilizadas,
+* y los protocolos internos básicos.
+
+⚠ La falta de conocimiento NO justificará errores administrativos.;false;8]
+$color[#5865f2;8]
+
+$addField[───────────────
+
+18 » Escalación Correcta
+
+───────────────;
+
+No todos los problemas requieren intervención administrativa.
+
+Los administradores deberán:
+
+* delegar cuando corresponda,
+* respetar jerarquías,
+* y evitar intervenir innecesariamente en tareas ajenas.;false;9]
+$color[#5865f2;9]

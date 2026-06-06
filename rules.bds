@@ -1,0 +1,125 @@
+$nomention
+
+$deletecommand
+
+$title[╔════════════════════════╗
+
+📃 Reglas
+
+╚════════════════════════╝;1]
+$description[Estas reglas tienen como objetivo mantener una comunidad ordenada, segura y agradable para todos los miembros.
+
+Las reglas podrán actualizarse cuando sea necesario para adaptarse a las necesidades de la comunidad. Los cambios relevantes serán comunicados a través de los canales correspondientes.
+
+Al permanecer en el servidor, aceptas respetar estas normas.;1]
+$color[#5865f2;1]
+
+$addField[1. Respeto y Convivencia;Trata a todos los miembros con respeto.
+
+No se permiten:
+
+* Insultos graves o reiterados.
+* Acoso, hostigamiento o persecución hacia otros usuarios.
+* Amenazas de cualquier tipo.
+* Discriminación por cualquier motivo.
+* Conductas destinadas a provocar conflictos o deteriorar deliberadamente el ambiente del servidor.
+
+Los temas que suelen generar controversia podrán discutirse siempre que se mantenga el respeto entre los participantes.
+
+El staff podrá intervenir cuando una conversación derive en insultos, provocaciones, hostigamiento o afecte negativamente la convivencia de la comunidad.
+
+Las bromas entre usuarios son responsabilidad de quienes participan en ellas, siempre que exista consentimiento mutuo y no generen molestias a terceros.;false;2]
+$color[#5865f2;2]
+
+$addField[2. Spam, Flood, Menciones y Publicidad;Está prohibido realizar spam, flood o publicidad no autorizada en cualquiera de sus formas.
+
+Esto incluye:
+
+* Envío masivo de mensajes.
+* Repetición innecesaria de texto, imágenes, GIFs o emojis.
+* Uso abusivo o repetitivo de menciones.
+* Utilización de @everyone o @here .
+* Promoción de servidores, proyectos, redes sociales, canales, productos o servicios sin autorización previa del staff.
+* Cualquier acción destinada a saturar canales o dificultar la comunicación normal.
+
+Si ya has solicitado ayuda o soporte, espera una respuesta antes de volver a mencionar al equipo.
+
+La publicidad no autorizada será considerada spam.;false;3]
+$color[#5865f2;3]
+
+$addField[3. Uso Correcto de los Canales;Utiliza cada canal para el propósito para el que fue creado.
+
+Ejemplos:
+
+* Soporte → consultas y ayuda.
+* General → conversación casual.
+* Memes → contenido humorístico.
+
+El uso reiterado e incorrecto de los canales podrá derivar en sanciones.;false;4]
+$color[#5865f2;4]
+
+$addField[4. Contenido Permitido;Está prohibido compartir contenido:
+
+* NSFW o sexualmente explícito.
+* Gore, perturbador o extremadamente gráfico.
+* Ilegal.
+* Explícitamente violento.
+* Que incumpla los Términos de Servicio o los Lineamientos de la Comunidad de Discord.
+
+Las infracciones graves podrán resultar en una expulsión permanente sin previo aviso.;false;5]
+$color[#5865f2;5]
+
+$addField[5. Soporte, Hilos y Tickets;Al solicitar ayuda:
+
+* Explica claramente tu problema.
+* Utiliza un único hilo o ticket por asunto.
+* No abras múltiples hilos o tickets para la misma consulta.
+* Si necesitas ayuda sobre un tema diferente, crea un nuevo hilo o ticket.
+
+No intervengas en consultas ajenas salvo que vayas a colaborar activamente en la resolución del problema.
+
+No utilices los tickets para:
+
+* Conversaciones casuales.
+* Consultas repetidas.
+* Solicitudes que ya dispongan de respuesta pública.
+
+El abuso de los sistemas de soporte podrá derivar en restricciones o sanciones.;false;6]
+$color[#5865f2;6]
+
+$addField[6. Staff y Moderación;El staff es responsable de mantener el orden y el correcto funcionamiento del servidor.
+
+Por ello:
+
+* Respeta las decisiones del equipo.
+* Sigue las indicaciones del staff cuando sea necesario.
+* No interfieras en procesos de moderación o soporte.
+
+Las decisiones del staff deberán estar basadas en las reglas del servidor y en la evidencia disponible.
+
+Si consideras que una acción fue incorrecta, podrás presentar una apelación mediante los canales correspondientes.
+
+No envíes mensajes privados al staff relacionados con soporte, apelaciones o moderación, salvo que un miembro del equipo lo solicite expresamente.;false;7]
+$color[#5865f2;7]
+
+$addField[7. Idioma;El idioma principal del servidor es el español.
+
+Los usuarios que no hablen español podrán comunicarse en inglés cuando sea necesario.;false;8]
+$color[#5865f2;8]
+
+$addField[8. Identidad y Privacidad;Está prohibido:
+
+* Hacerse pasar por miembros del staff, desarrolladores, usuarios u otras personas.
+* Compartir información privada o sensible de terceros sin su consentimiento.
+
+Ejemplos de información sensible:
+
+* Direcciones.
+* Números de teléfono.
+* Correos electrónicos.
+* Contraseñas.
+* Información bancaria.
+* Datos personales privados.
+
+La suplantación de identidad o divulgación de información privada podrá resultar en sanciones severas o permanentes.;false;9]
+$color[#5865f2;9]
